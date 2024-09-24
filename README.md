@@ -1,6 +1,8 @@
 👋 **Hi, I’m Karen!**
 
+
 📚 Currently: Studying BS in Computer Science at PUP - Manila
+
 🔎 Intereseted in Cybersecurity and Web Developmement
 
 
