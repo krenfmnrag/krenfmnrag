@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karen Faye</h1>
+<h1 align="center">Hi 👋, I'm Karen Faye!</h1>
 <h3 align="center">Currently: Studying BS in Computer Science at PUP - Manila</h3>
 
 <h3 align="left">Connect with me:</h3>
