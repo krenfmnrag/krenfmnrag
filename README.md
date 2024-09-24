@@ -1,4 +1,5 @@
 👋 Hi, I’m Karen!
+
 📚 Exploring the world of coding as a Computer Science student at PUP - Manila
 
 
